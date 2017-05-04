@@ -1,0 +1,843 @@
+<units>
+    //Length
+    <unit>
+        <name>ångström</name>
+        <type>Length</type>
+        <conversionFactor>1e-10</conversionFactor>
+    </unit>
+    <unit>
+        <name>astronomical unit</name>
+        <type>Length</type>
+        <conversionFactor>149597870700</conversionFactor>
+    </unit>
+    <unit>
+        <name>barleycorn</name>
+        <type>Length</type>
+        <conversionFactor>8.46e-3</conversionFactor>
+    </unit>
+    <unit>
+        <name>bohr</name>
+        <type>Length</type>
+        <conversionFactor>5.291772109217e-11</conversionFactor>
+    </unit>
+    <unit>
+        <name>cable Length (imperial)</name>
+        <type>Length</type>
+        <conversionFactor>185.3184</conversionFactor>
+    </unit>
+    <unit>
+        <name>cable Length (International)</name>
+        <type>Length</type>
+        <conversionFactor>185.2</conversionFactor>
+    </unit>
+    <unit>
+        <name>cable Length (US)</name>
+        <type>Length</type>
+        <conversionFactor>219.456</conversionFactor>
+    </unit>
+    <unit>
+        <name>chain</name>
+        <type>Length</type>
+        <conversionFactor>20.11684</conversionFactor>
+    </unit>
+    <unit>
+        <name>cubit</name>
+        <type>Length</type>
+        <conversionFactor>0.5</conversionFactor>
+    </unit>
+    <unit>
+        <name>ell</name>
+        <type>Length</type>
+        <conversionFactor>1.143</conversionFactor>
+    </unit>
+    <unit>
+        <name>fathom</name>
+        <type>Length</type>
+        <conversionFactor>1.8288</conversionFactor>
+    </unit>
+    <unit>
+        <name>fermi</name>
+        <type>Length</type>
+        <conversionFactor>1e-15</conversionFactor>
+    </unit>
+    <unit>
+        <name>finger</name>
+        <type>Length</type>
+        <conversionFactor>0.022225</conversionFactor>
+    </unit>
+    <unit>
+        <name>finger (cloth)</name>
+        <type>Length</type>
+        <conversionFactor>0.1143</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot</name>
+        <type>Length</type>
+        <conversionFactor>0.3048</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (Benoît)</name>
+        <type>Length</type>
+        <conversionFactor>0.304799735</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (Cape)</name>
+        <type>Length</type>
+        <conversionFactor>0.314858</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (Clarke's)</name>
+        <type>Length</type>
+        <conversionFactor>0.3047972654</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (Indian)</name>
+        <type>Length</type>
+        <conversionFactor>0.304799514</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot, metric</name>
+        <type>Length</type>
+        <conversionFactor>0.31622776601</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot, metric (long)</name>
+        <type>Length</type>
+        <conversionFactor>0.3</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot, metric (short)</name>
+        <type>Length</type>
+        <conversionFactor>0.30</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (Sear's)</name>
+        <type>Length</type>
+        <conversionFactor>0.30479947</conversionFactor>
+    </unit>
+    <unit>
+        <name>foot (US Survey)</name>
+        <type>Length</type>
+        <conversionFactor>0.304800610</conversionFactor>
+    </unit>
+    <unit>
+        <name>french; charriere</name>
+        <type>Length</type>
+        <conversionFactor>0.3e-3</conversionFactor>
+    </unit>
+    <unit>
+        <name>furlong</name>
+        <type>Length</type>
+        <conversionFactor>201.168</conversionFactor>
+    </unit>
+    <unit>
+        <name>hand</name>
+        <type>Length</type>
+        <conversionFactor>0.1016</conversionFactor>
+    </unit>
+    <unit>
+        <name>inch</name>
+        <type>Length</type>
+        <conversionFactor>.0254</conversionFactor>
+    </unit>
+    <unit>
+        <name>league</name>
+        <type>Length</type>
+        <conversionFactor>4828</conversionFactor>
+    </unit>
+    <unit>
+        <name>light-day</name>
+        <type>Length</type>
+        <conversionFactor>2.59020683712e13</conversionFactor>
+    </unit>
+    <unit>
+        <name>light-hour</name>
+        <type>Length</type>
+        <conversionFactor>1.0792528488e12</conversionFactor>
+    </unit>
+    <unit>
+        <name>light-minute</name>
+        <type>Length</type>
+        <conversionFactor>1.798754748e10</conversionFactor>
+    </unit>
+    <unit>
+        <name>light-second</name>
+        <type>Length</type>
+        <conversionFactor>299792458</conversionFactor>
+    </unit>
+    <unit>
+        <name>light-year</name>
+        <type>Length</type>
+        <conversionFactor>9.4607304725808e15</conversionFactor>
+    </unit>
+    <unit>
+        <name>line</name>
+        <type>Length</type>
+        <conversionFactor>0.002116</conversionFactor>
+    </unit>
+    <unit>
+        <name>link (Gunter's; Surveyor's)</name>
+        <type>Length</type>
+        <conversionFactor>0.2011684</conversionFactor>
+    </unit>
+    <unit>
+        <name>link (Ramsden's; Engineer's)</name>
+        <type>Length</type>
+        <conversionFactor>0.3048</conversionFactor>
+    </unit>
+    <unit>
+        <name>meter</name>
+        <type>Length</type>
+        <conversionFactor>1</conversionFactor>
+    </unit>
+    <unit>
+        <name>mickey</name>
+        <type>Length</type>
+        <conversionFactor>1.27e-4</conversionFactor>
+    </unit>
+    <unit>
+        <name>micron</name>
+        <type>Length</type>
+        <conversionFactor>1e-6</conversionFactor>
+    </unit>
+    <unit>
+        <name>mil; thou</name>
+        <type>Length</type>
+        <conversionFactor>2.54e-5</conversionFactor>
+    </unit>
+    <unit>
+        <name>mil (Sweden and Norway)</name>
+        <type>Length</type>
+        <conversionFactor>10000</conversionFactor>
+    </unit>
+    <unit>
+        <name>mile (geographical)</name>
+        <type>Length</type>
+        <conversionFactor>1853.7936</conversionFactor>
+    </unit>
+    <unit>
+        <name>mile (international)</name>
+        <type>Length</type>
+        <conversionFactor>1609.344</conversionFactor>
+    </unit>
+    <unit>
+        <name>mile (tactical or data)</name>
+        <type>Length</type>
+        <conversionFactor>1828.8</conversionFactor>
+    </unit>
+    <unit>
+        <name>mile (telegraph)</name>
+        <type>Length</type>
+        <conversionFactor>1855.3176</conversionFactor>
+    </unit>
+    <unit>
+        <name>mile (US Survey)</name>
+        <type>Length</type>
+        <conversionFactor>1609.347219</conversionFactor>
+    </unit>
+    <unit>
+        <name>nail</name>
+        <type>Length</type>
+        <conversionFactor>0.05715</conversionFactor>
+    </unit>
+    <unit>
+        <name>nanometer</name>
+        <type>Length</type>
+        <conversionFactor>1e-9</conversionFactor>
+    </unit>
+    <unit>
+        <name>nautical league</name>
+        <type>Length</type>
+        <conversionFactor>5556</conversionFactor>
+    </unit>
+    <unit>
+        <name>nauticalile (Admiralty)</name>
+        <type>Length</type>
+        <conversionFactor>1853.184</conversionFactor>
+    </unit>
+    <unit>
+        <name>nauticalile (international)</name>
+        <type>Length</type>
+        <conversionFactor>1852</conversionFactor>
+    </unit>
+    <unit>
+        <name>nauticalile (US pre 1954)</name>
+        <type>Length</type>
+        <conversionFactor>1853.248</conversionFactor>
+    </unit>
+    <unit>
+        <name>pace</name>
+        <type>Length</type>
+        <conversionFactor>0.762</conversionFactor>
+    </unit>
+    <unit>
+        <name>palm</name>
+        <type>Length</type>
+        <conversionFactor>0.0762</conversionFactor>
+    </unit>
+    <unit>
+        <name>parsec</name>
+        <type>Length</type>
+        <conversionFactor>3.085677581e16</conversionFactor>
+    </unit>
+    <unit>
+        <name>point (American, English)</name>
+        <type>Length</type>
+        <conversionFactor>0.000351450</conversionFactor>
+    </unit>
+    <unit>
+        <name>point (Didot; European)</name>
+        <type>Length</type>
+        <conversionFactor>0.00037593985</conversionFactor>
+    </unit>
+    <unit>
+        <name>point (PostScript)</name>
+        <type>Length</type>
+        <conversionFactor>0.0003527</conversionFactor>
+    </unit>
+    <unit>
+        <name>point (TeX)</name>
+        <type>Length</type>
+        <conversionFactor>0.0003514598</conversionFactor>
+    </unit>
+    <unit>
+        <name>quarter</name>
+        <type>Length</type>
+        <conversionFactor>0.2286</conversionFactor>
+    </unit>
+    <unit>
+        <name>rod; pole; perch</name>
+        <type>Length</type>
+        <conversionFactor>5.0292</conversionFactor>
+    </unit>
+    <unit>
+        <name>rope</name>
+        <type>Length</type>
+        <conversionFactor>6.096</conversionFactor>
+    </unit>
+    <unit>
+        <name>shaku</name>
+        <type>Length</type>
+        <conversionFactor>0.3030</conversionFactor>
+    </unit>
+    <unit>
+        <name>span</name>
+        <type>Length</type>
+        <conversionFactor>0.2286</conversionFactor>
+    </unit>
+    <unit>
+        <name>spat</name>
+        <type>Length</type>
+        <conversionFactor>1e12</conversionFactor>
+    </unit>
+    <unit>
+        <name>stick</name>
+        <type>Length</type>
+        <conversionFactor>0.0508</conversionFactor>
+    </unit>
+    <unit>
+        <name>stigma; bicron (picometer)</name>
+        <type>Length</type>
+        <conversionFactor>1e-12</conversionFactor>
+    </unit>
+    <unit>
+        <name>twip</name>
+        <type>Length</type>
+        <conversionFactor>1.7638e-5</conversionFactor>
+    </unit>
+    <unit>
+        <name>x unit; siegbahn</name>
+        <type>Length</type>
+        <conversionFactor>1.0021e-13</conversionFactor>
+    </unit>
+    <unit>
+        <name>yard</name>
+        <type>Length</type>
+        <conversionFactor>0.9144</conversionFactor>
+    </unit>
+
+    //mass
+    <unit>
+        <name>atomic mass unit</name>
+        <type>Mass</type>
+        <conversionFactor>1.66053892173e-27</conversionFactor>
+    </unit>
+    <unit>
+        <name>atomic unit of mass</name>
+        <type>Mass</type>
+        <conversionFactor>9.1093829140e-31</conversionFactor>
+    </unit>
+    <unit>
+        <name>bag (coffee)</name>
+        <type>Mass</type>
+        <conversionFactor>60</conversionFactor>
+    </unit>
+    <unit>
+        <name>bag (Portland cement)</name>
+        <type>Mass</type>
+        <conversionFactor>42.63768278</conversionFactor>
+    </unit>
+    <unit>
+        <name>barge</name>
+        <type>Mass</type>
+        <conversionFactor>20411.65665</conversionFactor>
+    </unit>
+    <unit>
+        <name>carat</name>
+        <type>Mass</type>
+        <conversionFactor>0.0002051965483</conversionFactor>
+    </unit>
+    <unit>
+        <name>carat (metric)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0002</conversionFactor>
+    </unit>
+    <unit>
+        <name>clove</name>
+        <type>Mass</type>
+        <conversionFactor>3.62873896</conversionFactor>
+    </unit>
+    <unit>
+        <name>crith</name>
+        <type>Mass</type>
+        <conversionFactor>0.0000899349</conversionFactor>
+    </unit>
+    <unit>
+        <name>dalton</name>
+        <type>Mass</type>
+        <conversionFactor>1.66053892173e-27</conversionFactor>
+    </unit>
+    <unit>
+        <name>dram (apothecary; troy)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0038879346</conversionFactor>
+    </unit>
+    <unit>
+        <name>dram (avoirdupois)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0017718451953125</conversionFactor>
+    </unit>
+    <unit>
+        <name>electronvolt</name>
+        <type>Mass</type>
+        <conversionFactor>1.7826618445e-36</conversionFactor>
+    </unit>
+    <unit>
+        <name>gamma</name>
+        <type>Mass</type>
+        <conversionFactor>1.0e-9</conversionFactor>
+    </unit>
+    <unit>
+        <name>grain</name>
+        <type>Mass</type>
+        <conversionFactor>6.479891</conversionFactor>
+    </unit>
+    <unit>
+        <name>gram</name>
+        <type>Mass</type>
+        <conversionFactor>0.001</conversionFactor>
+    </unit>
+    <unit>
+        <name>grave</name>
+        <type>Mass</type>
+        <conversionFactor>1</conversionFactor>
+    </unit>
+    <unit>
+        <name>hundredweight</name>
+        <type>Mass</type>
+        <conversionFactor>50.80234544</conversionFactor>
+    </unit>
+    <unit>
+        <name>hundredweight</name>
+        <type>Mass</type>
+        <conversionFactor>45.359237</conversionFactor>
+    </unit>
+    <unit>
+        <name>kilogram</name>
+        <type>Mass</type>
+        <conversionFactor>1</conversionFactor>
+    </unit>
+    <unit>
+        <name>kip</name>
+        <type>Mass</type>
+        <conversionFactor>453.59237</conversionFactor>
+    </unit>
+    <unit>
+        <name>mark</name>
+        <type>Mass</type>
+        <conversionFactor>0.2488278144</conversionFactor>
+    </unit>
+    <unit>
+        <name>mite</name>
+        <type>Mass</type>
+        <conversionFactor>0.0000032399455</conversionFactor>
+    </unit>
+    <unit>
+        <name>mite (metric)</name>
+        <type>Mass</type>
+        <conversionFactor>0.00005</conversionFactor>
+    </unit>
+    <unit>
+        <name>ounce</name>
+        <type>Mass</type>
+        <conversionFactor>0.028349523125</conversionFactor>
+    </unit>
+    <unit>
+        <name>ounce (apothecary; troy)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0311034768</conversionFactor>
+    </unit>
+    <unit>
+        <name>ounce (US food nutrition labelling)</name>
+        <type>Mass</type>
+        <conversionFactor>0.028</conversionFactor>
+    </unit>
+    <unit>
+        <name>pennyweight</name>
+        <type>Mass</type>
+        <conversionFactor>0.00155517384</conversionFactor>
+    </unit>
+    <unit>
+        <name>point</name>
+        <type>Mass</type>
+        <conversionFactor>0.000002</conversionFactor>
+    </unit>
+    <unit>
+        <name>pound</name>
+        <type>Mass</type>
+        <conversionFactor>0.45359237</conversionFactor>
+    </unit>
+    <unit>
+        <name>pound (avoirdupois)</name>
+        <type>Mass</type>
+        <conversionFactor>0.028349523125</conversionFactor>
+    </unit>
+    <unit>
+        <name>pound (metric)</name>
+        <type>Mass</type>
+        <conversionFactor>0.500</conversionFactor>
+    </unit>
+    <unit>
+        <name>pound (troy)</name>
+        <type>Mass</type>
+        <conversionFactor>0.3732417216</conversionFactor>
+    </unit>
+    <unit>
+        <name>quarter (imperial)</name>
+        <type>Mass</type>
+        <conversionFactor>12.70058636</conversionFactor>
+    </unit>
+    <unit>
+        <name>quarter (informal)</name>
+        <type>Mass</type>
+        <conversionFactor>226.796185</conversionFactor>
+    </unit>
+    <unit>
+        <name>quarter, long (informal)</name>
+        <type>Mass</type>
+        <conversionFactor>254.0117272</conversionFactor>
+    </unit>
+    <unit>
+        <name>quintal (metric)</name>
+        <type>Mass</type>
+        <conversionFactor>100</conversionFactor>
+    </unit>
+    <unit>
+        <name>scruple (apothecary)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0012959782</conversionFactor>
+    </unit>
+    <unit>
+        <name>sheet</name>
+        <type>Mass</type>
+        <conversionFactor>0.0006479891</conversionFactor>
+    </unit>
+    <unit>
+        <name>slug</name>
+        <type>Mass</type>
+        <conversionFactor>14.593903</conversionFactor>
+    </unit>
+    <unit>
+        <name>stone</name>
+        <type>Mass</type>
+        <conversionFactor>6.35029318</conversionFactor>
+    </unit>
+    <unit>
+        <name>ton, assay (long)</name>
+        <type>Mass</type>
+        <conversionFactor>0.0326</conversionFactor>
+    </unit>
+    <unit>
+        <name>ton, assay (short)</name>
+        <type>Mass</type>
+        <conversionFactor>0.02916</conversionFactor>
+    </unit>
+    <unit>
+        <name>ton, long</name>
+        <type>Mass</type>
+        <conversionFactor>1016.0469088</conversionFactor>
+    </unit>
+    <unit>
+        <name>ton, short</name>
+        <type>Mass</type>
+        <conversionFactor>907.18474</conversionFactor>
+    </unit>
+    <unit>
+        <name>tonne (mts unit)</name>
+        <type>Mass</type>
+        <conversionFactor>1000</conversionFactor>
+    </unit>
+    <unit>
+        <name>wey</name>
+        <type>Mass</type>
+        <conversionFactor>114.30527724</conversionFactor>
+    </unit>
+
+
+    //temperature
+    <unit>
+        <name>° Celsius</name>
+        <type>Temperature</type>
+        <conversionFactor>1</conversionFactor>
+        <conversionConstant>273.15</conversionConstant>
+    </unit>
+    <unit>
+        <name>° Delisle</name>
+        <type>Temperature</type>
+        <conversionFactor>-0.66666666666666666666666666666667</conversionFactor>
+        <conversionConstant>373.15</conversionConstant>
+    </unit>
+    <unit>
+        <name>° Fahrenheit</name>
+        <type>Temperature</type>
+        <conversionFactor>0.55555555555555555555555555555556</conversionFactor>
+        <conversionConstant>255.37222222222222222222222222222</conversionConstant>
+    </unit>
+    <unit>
+        <name>° Newton</name>
+        <type>Temperature</type>
+        <conversionFactor>3.030303030303030303030303030303</conversionFactor>
+        <conversionConstant>273.15</conversionConstant>
+    </unit>
+    <unit>
+        <name>° Rankine</name>
+        <type>Temperature</type>
+        <conversionFactor>0.55555555555555555555555555555556</conversionFactor>
+    </unit>
+    <unit>
+        <name>° Réaumur</name>
+        <type>Temperature</type>
+        <conversionFactor>1.25</conversionFactor>
+        <conversionConstant>273.15</conversionConstant>
+    </unit>
+    <unit>
+        <name>° Rømer</name>
+        <type>Temperature</type>
+        <conversionFactor>1.9047619047619047619047619047619</conversionFactor>
+        <conversionConstant>258.86428571428571428571428571429</conversionConstant>
+    </unit>
+    <unit>
+        <name>Regulo Gas Mark</name>
+        <type>Temperature</type>
+        <conversionFactor>13.888888888888888888888888888889</conversionFactor>
+        <conversionConstant>422.038</conversionConstant>
+    </unit>
+    <unit>
+        <name>kelvin</name>
+        <type>Temperature</type>
+        <conversionFactor>1</conversionFactor>
+    </unit>
+
+
+    //time
+    <unit>
+        <name>atomic unit of time</name>
+        <type>Time</type>
+        <conversionFactor>2.418884254e-17</conversionFactor>
+    </unit>
+    <unit>
+        <name>Callippic cycle</name>
+        <type>Time</type>
+        <conversionFactor>2.39838e-9</conversionFactor>
+    </unit>
+    <unit>
+        <name>century</name>
+        <type>Time</type>
+        <conversionFactor>3155695200</conversionFactor>
+    </unit>
+    <unit>
+        <name>day</name>
+        <type>Time</type>
+        <conversionFactor>86400</conversionFactor>
+    </unit>
+    <unit>
+        <name>day (sidereal)</name>
+        <type>Time</type>
+        <conversionFactor>86164.1</conversionFactor>
+    </unit>
+    <unit>
+        <name>decade</name>
+        <type>Time</type>
+        <conversionFactor>315569520</conversionFactor>
+    </unit>
+    <unit>
+        <name>fortnight</name>
+        <type>Time</type>
+        <conversionFactor>1209600</conversionFactor>
+    </unit>
+    <unit>
+        <name>helek</name>
+        <type>Time</type>
+        <conversionFactor>3.3</conversionFactor>
+    </unit>
+    <unit>
+        <name>Hipparchic cycle</name>
+        <type>Time</type>
+        <conversionFactor>9593424000</conversionFactor>
+    </unit>
+    <unit>
+        <name>hour</name>
+        <type>Time</type>
+        <conversionFactor>3600</conversionFactor>
+    </unit>
+    <unit>
+        <name>jiffy</name>
+        <type>Time</type>
+        <conversionFactor>0.0166</conversionFactor>
+    </unit>
+    <unit>
+        <name>jiffy (alternative)</name>
+        <type>Time</type>
+        <conversionFactor>0.01</conversionFactor>
+    </unit>
+    <unit>
+        <name>ke (quarter of an hour)</name>
+        <type>Time</type>
+        <conversionFactor>900</conversionFactor>
+    </unit>
+    <unit>
+        <name>ke (traditional)</name>
+        <type>Time</type>
+        <conversionFactor>864</conversionFactor>
+    </unit>
+    <unit>
+        <name>lustre; lustrum</name>
+        <type>Time</type>
+        <conversionFactor>157680000</conversionFactor>
+    </unit>
+    <unit>
+        <name>Metonic cycle</name>
+        <type>Time</type>
+        <conversionFactor>599616000</conversionFactor>
+    </unit>
+    <unit>
+        <name>millennium</name>
+        <type>Time</type>
+        <conversionFactor>31556952000</conversionFactor>
+    </unit>
+    <unit>
+        <name>milliday</name>
+        <type>Time</type>
+        <conversionFactor>86.4</conversionFactor>
+    </unit>
+    <unit>
+        <name>minute</name>
+        <type>Time</type>
+        <conversionFactor>60</conversionFactor>
+    </unit>
+    <unit>
+        <name>moment</name>
+        <type>Time</type>
+        <conversionFactor>90</conversionFactor>
+    </unit>
+    <unit>
+        <name>month (full)</name>
+        <type>Time</type>
+        <conversionFactor>2.592e6</conversionFactor>
+    </unit>
+    <unit>
+        <name>month (Greg. av.)</name>
+        <type>Time</type>
+        <conversionFactor>2629700</conversionFactor>
+    </unit>
+    <unit>
+        <name>month (hollow)</name>
+        <type>Time</type>
+        <conversionFactor>2505600</conversionFactor>
+    </unit>
+    <unit>
+        <name>month (synodic)</name>
+        <type>Time</type>
+        <conversionFactor>2551000</conversionFactor>
+    </unit>
+    <unit>
+        <name>octaeteris</name>
+        <type>Time</type>
+        <conversionFactor>252460.8</conversionFactor>
+    </unit>
+    <unit>
+        <name>Planck time</name>
+        <type>Time</type>
+        <conversionFactor>1.351211868e-43</conversionFactor>
+    </unit>
+    <unit>
+        <name>second</name>
+        <type>Time</type>
+        <conversionFactor>1</conversionFactor>
+    </unit>
+    <unit>
+        <name>shake</name>
+        <type>Time</type>
+        <conversionFactor>0.00000001</conversionFactor>
+    </unit>
+    <unit>
+        <name>sigma</name>
+        <type>Time</type>
+        <conversionFactor>0.000001</conversionFactor>
+    </unit>
+    <unit>
+        <name>Sothic cycle</name>
+        <type>Time</type>
+        <conversionFactor>460.74096e14</conversionFactor>
+    </unit>
+    <unit>
+        <name>svedberg</name>
+        <type>Time</type>
+        <conversionFactor>1e-13</conversionFactor>
+    </unit>
+    <unit>
+        <name>week</name>
+        <type>Time</type>
+        <conversionFactor>604800</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (common)</name>
+        <type>Time</type>
+        <conversionFactor>31536000</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (Gregorian)</name>
+        <type>Time</type>
+        <conversionFactor>31556952</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (Julian)</name>
+        <type>Time</type>
+        <conversionFactor>31557600</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (leap)</name>
+        <type>Time</type>
+        <conversionFactor>31622400</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (mean tropical)</name>
+        <type>Time</type>
+        <conversionFactor>31556925</conversionFactor>
+    </unit>
+    <unit>
+        <name>year (sidereal)</name>
+        <type>Time</type>
+        <conversionFactor>31558149.7632</conversionFactor>
+    </unit>
+</units>

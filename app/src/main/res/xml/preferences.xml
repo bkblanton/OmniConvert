@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="Conversion Details"
+        android:key="pref_showConversionDetails"
+        android:summary="Show extra details about conversions"
+        android:defaultValue="true" ></CheckBoxPreference>
+    <EditTextPreference android:title="Significant Digits"
+        android:key="pref_sigFigs"
+        android:summary="The number of significant digits at which to display conversions"
+        android:defaultValue="12" ></EditTextPreference>
+</PreferenceScreen>
